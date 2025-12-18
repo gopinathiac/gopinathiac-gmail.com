@@ -1,0 +1,5 @@
+{
+  "name": "SentinelVault - Advanced Password Auditor",
+  "description": "A professional-grade cyber-security suite for auditing password strength, generating secure hashes, and performing AI-driven security risk assessments using Gemini-3-Flash.",
+  "requestFramePermissions": []
+}
